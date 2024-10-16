@@ -1,4 +1,4 @@
-public class RealLifeJava {
+public class RealLifeVariable {
     public static void main(String[] args) {
         // Student data
         String studentName = "John Doe";
